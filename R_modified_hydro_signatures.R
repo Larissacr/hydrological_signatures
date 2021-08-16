@@ -1,4 +1,14 @@
+# -------------              Script for Hydrological Signatures          ------------ #
+# --Instituto de Pesquisas Hidraulicas - Hidrologia em Grande Escala (HGE)
+# --Author: Larissa de Castro Ribeiro (larissa.ribeirocr@gmail.com)
+# --Advisor: Dr. Rodrigo Cauduro Dias de Paiva
+# --Date: 19/11/2019
+# --Updated in: 04/03/2021
 
+# This script is a modification of the original scrit:
+# https://github.com/naddor/camels/tree/master/hydro
+
+# Original Author's Notes:
 # This document contains R functions to compute streamflow indices
 # (also referred to as hydrological signatures).
 # These functions have been used and are still used to produce the CAMELS datasets. The wrapper
